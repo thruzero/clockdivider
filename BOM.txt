@@ -1,7 +1,5 @@
-BOM:
-
 · 14x Thonkiconn Jacks + nuts
-· 12x 2mm LEDs
+· 12x 2mm LEDs (attention -> 2mm)
 · 1x 100K
 · 4x 47K
 · 16x 10K
