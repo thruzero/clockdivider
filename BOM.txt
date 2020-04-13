@@ -1,0 +1,30 @@
+BOM:
+
+· 14x Thonkiconn Jacks + nuts
+· 12x 2mm LEDs (attention -> 2mm)
+· 1x 100K
+· 4x 47K
+· 16x 10K
+· 12x 2K2
+· 12x 1K
+· 1x 100nF
+· 1x 10uF electrolytic
+· 2x 1N4148W
+· 16x MMBT3904
+· 1x CD4024 TSSOP package
+· 1x CD4017 TSSOP package
+· 5x2 pin power header (SMD)
+
+- All resistors and capacitors SMD size 0603.
+
+- The SMD jumper must be soldered and it sets the Reset step 
+at 6 or 8. Consider that if 8 is set, steps 7 and 8 won't be 
+accesible from the panel nor visualized by the LEDs.
+
+- The LED corresponding to the /2 output is oriented
+the same direction as the ones below.
+
+- It may be necessary to shorten the pins of the power header
+by slightly cutting them to make it match the pads on the board.
+Or you can use a regular straight pin header and just bend the
+pins 90º as I did.
